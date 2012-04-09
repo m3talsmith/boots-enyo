@@ -1,0 +1,10 @@
+{
+  "id":         "si.rix.foundation",
+  "version":    "0.0.1",
+  "vendor":     "Ryan Rix",
+  "type":       "web",
+  "main":       "index.html",
+  "icon":       "images/appicon.png",
+  "title":      "Enyo2 Application Foundation",
+  "uiRevision": "2"
+}

@@ -1,0 +1,9 @@
+[submodule "enyo"]
+	path = enyo
+	url = https://github.com/enyojs/enyo.git
+[submodule "onyx"]
+	path = onyx
+	url = https://github.com/enyojs/onyx.git
+[submodule "layout"]
+	path = layout
+	url = https://github.com/enyojs/layout.git
