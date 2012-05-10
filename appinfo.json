@@ -1,10 +1,10 @@
 {
-  "id":         "si.rix.foundation",
+  "id":         "si.rix.boots",
   "version":    "0.0.1",
   "vendor":     "Ryan Rix",
   "type":       "web",
   "main":       "index.html",
   "icon":       "images/appicon.png",
-  "title":      "Enyo2 Application Foundation",
+  "title":      "Boots Campfire Client",
   "uiRevision": "2"
 }

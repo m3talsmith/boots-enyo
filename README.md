@@ -1,8 +1,6 @@
-Enyo2 Foundation
-================
+¡Boots!
+=======
 
-Enyo2 Foundation is a simple starter application for the [Enyo2][1] framework.
-A fresh clone of this repository should provide everything you need to jump in
-and get started with an Enyo2 application in no time flat.
+Boots is an Enyo2 client for 37 Signals' [Campfire][1].
 
-[1]: https://enyojs.com
+[1]: http://campfirenow.com/
